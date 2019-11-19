@@ -1,5 +1,5 @@
 # modeli-instacart
-Trije modeli za napovedovanje novih izdelkov, ki jih uporabnik še ni poskusil.
+Trije modeli za napovedovanje novih izdelkov, ki jih uporabnik še ni poskusil. Podatki spletne trgovine Instacart so na voljo na spletnem portalu <a href="https://www.kaggle.com/c/instacart-market-basket-analysis/data">Kaggle</a>.
 
 ## Priporočanje na podlagi frekvence skupne pojavitve parov
 
