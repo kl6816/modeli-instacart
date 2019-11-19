@@ -11,12 +11,12 @@ F1 - ocena F1 (F1 score)
 - R = 0.071
 - F1 = 0.082
 
-## Priporočanje na podlagi podobnosti izdelkov
+## Priporočanje na podlagi podobnosti izdelkov (IB-CF)
 - P = 0.082
 - R = 0.081
 - F1 = 0.081
 
-## Priporočanje na podlagi podobnosti uporabnikov
+## Priporočanje na podlagi podobnosti uporabnikov (UB-CF)
 - P = 0.0091
 - R = 0.0088
 - F1 = 0.009
